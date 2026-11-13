@@ -1,0 +1,38 @@
+Images are served locally from this folder except deccan-traps.jpg, which is loaded from Wikimedia Commons.
+Credits and license links:
+
+atacama.jpg — L. Honnorat / ESO; CC BY 4.0
+https://commons.wikimedia.org/wiki/File:Atacama_Desert_Landscape_(iced_moment_870-CC).jpg
+
+haughton.jpg — Denni; Public domain
+https://commons.wikimedia.org/wiki/File:Haughton_impact_crater_radar_image.jpg
+
+death-valley.jpg — Brocken Inaglory; CC BY-SA 3.0
+https://commons.wikimedia.org/wiki/File:Mesquite_Sand_Dunes_in_Death_Valley.jpg
+
+mcmurdo.jpg — owamux; CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Taylor_Valley,_Antarctica.jpg
+
+mauna-kea.jpg — Vadim Kurland; CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Mauna_Kea_from_the_ocean.jpg
+
+iceland-holuhraun.jpg — Michael Ryan / USGS; Public domain
+https://commons.wikimedia.org/wiki/File:Askja.jpg
+
+rio-tinto.jpg — Carol Stoker / NASA; Public domain
+https://commons.wikimedia.org/wiki/File:Rio_tinto_river_CarolStoker_NASA_Ames_Research_Center.jpg
+
+lonar-crater.jpg — Aditya Laghate; CC BY-SA 3.0
+https://commons.wikimedia.org/wiki/File:Lonar_Crater,_Panorama.jpg
+
+ladakh-puga.jpg — Timothy A. Gonsalves; license details at source
+https://commons.wikimedia.org/wiki/File:Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg
+
+thar-desert.jpg — Sushmita Balasubramani; CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Thar_desert_Rajasthan_India.jpg
+
+deccan-traps.jpg — GeoDIL; CC0
+https://commons.wikimedia.org/wiki/File:Basalts_of_Deccan_Traps_(GeoDIL_number_-_88).jpg
+
+sambhar-lake.jpg — Kalidas Singh; CC BY-SA 4.0
+https://commons.wikimedia.org/wiki/File:Sambhar_lake_a_salted_bed.jpg

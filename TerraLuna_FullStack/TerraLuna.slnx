@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TerraLuna.Business/TerraLuna.Business.csproj" />
+  <Project Path="TerraLuna.Data/TerraLuna.Data.csproj" />
+  <Project Path="TerraLuna.Presentation/TerraLuna.Presentation.csproj" />
+</Solution>

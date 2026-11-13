@@ -1,0 +1,6 @@
+@TerraLuna.Presentation_HostAddress = http://localhost:5166
+
+GET {{TerraLuna.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
