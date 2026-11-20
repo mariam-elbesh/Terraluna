@@ -56,5 +56,3 @@ All environmental data and site comparisons were collected and verified using au
 No build tools or dependencies required. To run the project locally:
 
 `bash
-
-# 3. Open index.html directly in your browser
